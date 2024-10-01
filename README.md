@@ -1,7 +1,6 @@
-
 # Automatic Grading System
 
-![Automatic Grading System Flowchart](https://github.com/0xNullLight/Automatic_Grading_System---Project-2/blob/main/Automatic_Grading_System-FlowChart-Transparent-2.png?raw=true)
+![Automatic Grading System Flowchart](https://github.com/0xNullLight/Automatic_Grading_System---Project-2/blob/main/Automatic_Grading_System-FlowChart-Transparent_2.png?raw=true)
 
 ## Description
 
