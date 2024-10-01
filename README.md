@@ -1,13 +1,17 @@
 
 # Automatic Grading System
 
-![Automatic Grading System Flowchart](https://github.com/0xNullLight/Automatic_Grading_System---Project-2/blob/main/Automatic_Grading_System-FlowChart-Transparent.png?raw=true)
+![Automatic Grading System Flowchart](https://github.com/0xNullLight/Automatic_Grading_System---Project-2/blob/main/Automatic_Grading_System-FlowChart-Transparent-2.png?raw=true)
 
 ## Description
 
-This project is an **Automatic Grading System** built with **React.js** for the front end and **Express.js** for the back end. The system allows users to submit their JavaScript code, which is then analyzed by ChatGPT to determine if it meets the project requirements.
+This project is an **Automatic Grading System** built with **React.js** for the front end and **Express.js** and **Postgresql** for the back end. The system allows users to submit their JavaScript code, which is then analyzed by ChatGPT to determine if it meets the project requirements.
 
 The program is designed to encourage users and students by providing them with not only feedback but also a grade based on flexibility rather than fixed outputs.
+
+**The APIs utilized for this project will be:**
+1. OpenAI's API
+2. (have yet to be decided)
 
 ## User Stories
 
