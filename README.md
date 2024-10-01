@@ -37,8 +37,8 @@ Here are some user stories that outline the needs and expectations of different 
 
 ## Technologies Used
 
-- **Frontend:** React.js, CSS
-- **Backend:** Express.js
+- **Frontend:** HTML, Javascript, CSS (React.js, Bootstap/Tailwind)
+- **Backend:** Express.js, Postgresql (Sequalized ORM)
 - **AI Integration:** OpenAI's ChatGPT
 
 ## Problem Statement
